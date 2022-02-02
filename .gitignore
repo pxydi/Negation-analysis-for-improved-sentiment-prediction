@@ -1,0 +1,8 @@
+.Ds_store
+.ipynb_checkpoints
+__pycache__/
+*/.ipynb_checkpoints
+*/__pycache__/
+*/*/.ipynb_checkpoints
+*/Archives
+/data/*.csv
