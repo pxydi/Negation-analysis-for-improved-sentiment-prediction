@@ -28,4 +28,3 @@ The effect on model performance was investigated using the f1-score with cross-v
 The results show that, on average, the model with negation performs sightly better than the model without negation. This is due to an improvement in the precision rate.
 
 <p align="center"><img src="data/Recall_precision_curves.png" style="width:600px; height:280px;"></p>
-<p align="center"><img src="data/precision_recall_curves.png" style="width:380px; height:280px;"></p>
